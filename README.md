@@ -15,7 +15,11 @@ CSS3 – For styling and making the interface responsive
 # Features
 
 Real-time ECG waveform plotting using JavaScript
+
 Responsive and modern user interface using HTML/CSS
+
 Simulated signal generator or live input integration capability
+
 Clear layout with real-time refresh capability for accurate display
+
 Easy-to-understand visuals suitable for demo or educational use
